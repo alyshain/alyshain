@@ -13,7 +13,7 @@
 
 Hello, I'm Alyshai! 👋
 
-🔭 I'm currently a **Consultant, Analytics and Insights at [CBT](https://convergentbt.com/)** where I apply my technical skills to solve real-world problems and provide data-driven insights.
+🔭 I'm currently a **Consultant, Analytics and Insights at [Covergent Business Technologies](https://convergentbt.com/)** where I apply my technical skills to solve real-world problems and provide data-driven insights.
 
 😄 I have a Masters in Computer Science from FAST NUCES Islamabad, where I conducted research in the field of machine learning. I have also been a content creator, digital account manager, and writer. I enjoy learning, growing, and implementing new ideas.
 
