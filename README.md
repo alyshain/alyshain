@@ -2,7 +2,7 @@
   <samp>
 <!--     <a href="https://jaredpalmer.com">me</a> . -->
 <!--     <a href="https://jaredpalmer.com/blog">blog</a> .     -->
-    <a href="https://twitter.com/alyshaiiii">Tweets</a> .
+    <a href="https://twitter.com/alyshaiiii">Twitter</a> .
     <a href="https://www.instagram.com/notalyshai/">Instagram</a> .
     <a href="https://www.linkedin.com/in/alyshai/">LinkedIn</a>
   </samp>
