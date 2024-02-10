@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**alyshain/alyshain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+<!--     <a href="https://jaredpalmer.com">me</a> . -->
+<!--     <a href="https://jaredpalmer.com/blog">blog</a> .     -->
+    <a href="https://twitter.com/alyshaiiii">Tweets</a> .
+    <a href="https://www.instagram.com/notalyshai/">Instagram</a> .
+    <a href="https://www.linkedin.com/in/alyshai/">LinkedIn</a>
+  </samp>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I'm Alyshai! 👋
+
+🔭 I'm currently a **Consultant, Analytics and Insights at [CBT](https://convergentbt.com/)** where I apply my technical skills to solve real-world problems and provide data-driven insights.
+
+😄 I have a Masters in Computer Science from FAST NUCES Islamabad, where I conducted research in the field of machine learning. I have also been a content creator, digital account manager, and writer. I enjoy learning, growing, and implementing new ideas.
+
+🌱 I’m currently learning to write better code in Python and become more tech-savvy.
+
+⚡ When I'm not working, I can be found exploring new food spots or playing DOTA 2 or Command & Conquer: Generals – Zero Hour.
