@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <samp>
 <!--     <a href="https://jaredpalmer.com">me</a> . -->
