@@ -6,18 +6,25 @@
   </samp>
 </p>
 
-Hey there 👋 I'm <b>Alyshai</b> — data storyteller, analytics nerd, and proud overthinker 🧠✨  
+Hey, I'm **Alyshai** (pronouned *ah-lee-sha* or *ah-lee-shay*) 👋
 
-🎓 I’m currently a **Computing Research Graduate Assistant** at <b>[Grand Valley State University](https://www.gvsu.edu/)</b>, where my work lives at the intersection of **AI, learning analytics, and equity in education**. 
+- 🌍 Clients on multiple continents have trusted me with their data. Wisely.
+- 🎓 Currently a Graduate Research Assistant @ GVSU
+- ⚡ Maintained 99.5% pipeline uptime. My sleep schedule did not.
 
-💼 Before diving into research, I worked as a **Consultant, Data Analytics & Insights**, where I turned cloud data chaos (Azure, GCP, AWS) into clean, insightful dashboards and analytics strategies that powered smarter business decisions.  
+**The past life:**
+Analytics Engineering Consultant for 3+ years — turned cloud chaos (AWS, Azure, GCP) into dashboards that people actually used to make decisions. Automated enough reports to free up entire afternoons. Spent those afternoons playing Command & Conquer: Generals. 🎮
 
-💡 The current project I am working on uses machine learning, learning analytics, and educaiton technology to uncover how equity shows up (or doesn’t) in real classrooms.  
+**Currently:**
+- 🔧 Deep in data engineering and agentic AI
+- 🚧 Building things and putting them here
 
-🌱 These days I’m deep into **machine learning**, **learning analytics**, and **data engineering**, exploring how to make machines not just crunch numbers — but actually help humans learn better.  
+**Not data related:**
+- 🎮 DOTA 2 and Command & Conquer: Generals veteran
+- 🍜 Serious food spot researcher
+- 🏙️ Has strong opinions about urban planning. Will not be elaborating.
+- 🪴 Keeps enough plants that guests have questions
+- 🎯 Picks up a new hobby every month. Current streak: undefeated.
+- 🐾 Long-term goal: animal sanctuary. The pipeline is in progress.
 
-🎮 Outside the world of data, I’m usually searching for the best food spots or reliving my gamer era with **DOTA 2** and **Command & Conquer: Generals – Zero Hour**.  
-
-☕ Also: coffee is my favorite algorithm for productivity.  
-
-📫 Always open to chat about **data, learning science, or creative analytics** — just don’t ask me to pick between Power BI and Tableau. 😉
+☕ Karak Chai is load-bearing infrastructure for all of the above.
