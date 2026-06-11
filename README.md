@@ -1,30 +1,36 @@
 <p align="center">
-  <samp>
-    <a href="https://twitter.com/alyshaiiii">Twitter</a> .
-    <a href="https://www.instagram.com/notalyshai/">Instagram</a> .
-    <a href="https://www.linkedin.com/in/alyshai/">LinkedIn</a>
-  </samp>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" href="https://www.linkedin.com/in/alyshai/"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" href="https://twitter.com/alyshaiiii"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" href="https://www.instagram.com/notalyshai/"/>
 </p>
 
-Hey, I'm **Alyshai** (pronouned *ah-lee-sha* or *ah-lee-shay*) 👋
+# Hey, I'm Alyshai 👋 
 
-- 🌍 Clients on multiple continents have trusted me with their data. Wisely.
-- 🎓 Currently a Graduate Research Assistant @ GVSU
-- ⚡ Maintained 99.5% pipeline uptime. My sleep schedule did not.
+<details>
+<summary>🔊 <i>How do you say that? (Click to expand)</i></summary>
+<br>
+Pronounced <b>ah-lee-sha</b> or <b>ah-lee-shay</b>. 
+<br>
+Data Engineer turning cloud chaos into crisp, production-grade infrastructure. Currently doing cool things with machine learning and pipelines.
+</details>
 
-**The past life:**
-Analytics Engineering Consultant for 3+ years — turned cloud chaos (AWS, Azure, GCP) into dashboards that people actually used to make decisions. Automated enough reports to free up entire afternoons. Spent those afternoons playing Command & Conquer: Generals. 🎮
+---
 
-**Currently:**
-- 🔧 Deep in data engineering and agentic AI
-- 🚧 Building things and putting them here
+### ⚡ System Status: Active
 
-**Not data related:**
-- 🎮 DOTA 2 and Command & Conquer: Generals veteran
-- 🍜 Serious food spot researcher
-- 🏙️ Has strong opinions about urban planning. Will not be elaborating.
-- 🪴 Keeps enough plants that guests have questions
-- 🎯 Picks up a new hobby every month. Current streak: undefeated.
-- 🐾 Long-term goal: animal sanctuary. The pipeline is in progress.
+* 🌍 **Global Scale:** Clients on multiple continents have trusted me with their data. (Wisely).
+* 🎓 **Current Role:** Graduate Research Assistant @ Grand Valley State University (Applied ML & Learning Analytics)
+* 🔋 **Uptime:** Maintained 99.5% pipeline uptime. *My sleep schedule did not.*
 
-☕ Karak Chai is load-bearing infrastructure for all of the above.
+---
+
+## 🛠️ Tech Stack & Architecture
+
+```python
+infrastructure = {
+    "languages": ["Python", "SQL (Postgres/Optimization)", "R", "SAS"],
+    "data_eng": ["ETL/ELT", "dbt", "Apache Spark", "Airflow", "Databricks", "Dimensional Modeling"],
+    "cloud": ["AWS", "Azure", "GCP (BigQuery, Dataflow)"],
+    "devops": ["Docker", "Terraform", "Kubernetes", "CI/CD"],
+    "viz": ["Power BI (DAX)", "Tableau", "Metabase", "Retool"]
+}
