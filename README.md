@@ -8,22 +8,24 @@
 
 # Hey, I'm **Alyshai** (pronouned *ah-lee-sha* or *ah-lee-shay*) 👋
 
+## About me:
+
 - 🌍 Clients on multiple continents have trusted me with their data. Wisely.
 - 🎓 Currently a Graduate Research Assistant @ GVSU
 - ⚡ Maintained 99.5% pipeline uptime. My sleep schedule did not.
 
 ---
 
-### 📂 The Log
+## 📂 The Log
 
-**The past life:**
+#### **The past life:**
 Analytics Engineering Consultant for 3+ years — turned cloud chaos (AWS, Azure, GCP) into dashboards that people actually used to make decisions. Automated enough reports to free up entire afternoons. Spent those afternoons playing Command & Conquer: Generals. 🎮
 
-**Currently:**
+#### **Currently:**
 - 🔧 Deep in data engineering and agentic AI
 - 🚧 Building things and putting them here
 
-**Not data related:**
+#### **Not data related:**
 - 🎮 DOTA 2 and Command & Conquer: Generals veteran
 - 🍜 Serious food spot researcher
 - 🏙️ Has strong opinions about urban planning. Will not be elaborating.
@@ -33,6 +35,6 @@ Analytics Engineering Consultant for 3+ years — turned cloud chaos (AWS, Azure
 
 ---
 
-> ☕ Karak Chai is load-bearing infrastructure for all of the above.
+☕ Karak Chai is load-bearing infrastructure for all of the above.
 
 ---
