@@ -14,33 +14,28 @@
 
 ---
 
-### 📂 The Log
+## 📂 The Log
 
-<details open>
-<summary><b>The past life:</b></summary>
-<br>
+---
+
+### **The past life:**
 Analytics Engineering Consultant for 3+ years — turned cloud chaos (AWS, Azure, GCP) into dashboards that people actually used to make decisions. Automated enough reports to free up entire afternoons. Spent those afternoons playing Command & Conquer: Generals. 🎮
-</details>
 
-<details open>
-<summary><b>Currently:</b></summary>
-<br>
+---
 
+### **Currently:**
 - 🔧 Deep in data engineering and agentic AI
 - 🚧 Building things and putting them here
-</details>
 
-<details>
-<summary><b>✨ Not data related: (Click to expand)</b></summary>
-<br>
+---
 
+### **✨ Not data related:**
 - 🎮 DOTA 2 and Command & Conquer: Generals veteran
 - 🍜 Serious food spot researcher
 - 🏙️ Has strong opinions about urban planning. Will not be elaborating.
 - 🪴 Keeps enough plants that guests have questions
 - 🎯 Picks up a new hobby every month. Current streak: undefeated.
 - 🐾 Long-term goal: animal sanctuary. The pipeline is in progress.
-</details>
 
 ---
 
