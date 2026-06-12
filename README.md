@@ -6,15 +6,15 @@
   </samp>
 </p>
 
-# Hey, I'm **Alyshai** (pronouned *ah-lee-sha* or *ah-lee-shay*) 👋
+Hey, I'm **Alyshai** (pronouned *ah-lee-sha* or *ah-lee-shay*) 👋
 
-## About me:
+### About Me
 
 - 🌍 Clients on multiple continents have trusted me with their data. Wisely.
 - 🎓 Currently a Graduate Research Assistant @ GVSU
 - ⚡ Maintained 99.5% pipeline uptime. My sleep schedule did not.
 
-## 📂 The Log
+### The Log
 
 #### **Past life:**
 Analytics Engineering Consultant for 3+ years — turned cloud chaos (AWS, Azure, GCP) into dashboards that people actually used to make decisions. Automated enough reports to free up entire afternoons. Spent those afternoons playing Command & Conquer: Generals. 🎮
