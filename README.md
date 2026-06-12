@@ -23,7 +23,7 @@ Hey, I'm **Alyshai** (pronouned *ah-lee-sha* or *ah-lee-shay*) 👋
 - Building things and putting them here
 
 #### **Not data related:**
-- 🎮 DOTA 2 and Command & Conquer: Generals veteran
+- DOTA 2 and Command & Conquer: Generals veteran 🎮
 - Serious food spot researcher
 - Has strong opinions about urban planning. Will not be elaborating.
 - Keeps enough plants that guests have questions🪴
