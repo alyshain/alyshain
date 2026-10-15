@@ -20,8 +20,8 @@ Hey, I'm **Alysha** (pronounced *ah-lee-sha*) 👋
 **Past life:** Analytics Engineering Consultant for 3+ years. I turned cloud chaos (AWS, Azure, GCP) into dashboards that people actually used to make decisions. Automated 30+ recurring reports, built pipelines handling 5M+ daily records, and cut query runtimes by about 65%. Spent the freed up afternoons playing Command & Conquer: Generals. 😉
 
 **Currently:**
-- Researching how people trust, use, and abandon AI tools, including a usability and trust evaluation of an AI mental health tool for clinicians
-- Going deeper into data engineering and agentic AI
+- Researching mental health and AI
+- Going deeper into data engineering and Generative AI
 - Building things and putting them here
 
 #### **Not data related:**
@@ -32,6 +32,6 @@ Hey, I'm **Alysha** (pronounced *ah-lee-sha*) 👋
 - Has strong opinions about walkable cities. Will not be elaborating.
 - Keeps enough plants that guests have questions 🪴
 - Picks up a new hobby every month. Current streak: undefeated.
-- Long term goal: animal sanctuary. The pipeline is in progress. 🐾
+- Long term goal: a sanctuary where rescued animals, good coffee, fresh produce, and shelves of books all share one address. The pipeline is in progress. 🐾
 
 ☕ Karak Chai is load bearing infrastructure for all of the above.
